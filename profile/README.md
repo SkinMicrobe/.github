@@ -1,33 +1,33 @@
 # SMOOTH Laboratory
 
-## 组织介绍
+## About Us
 
-SMOOTH (Skin & Mucosal Microbes Omics-based Total Health) Laboratory 是一个跨学科研究机构，隶属于南方医科大学。实验室致力于将皮肤微生物组大数据与人工智能技术深度融合，通过多组学分析方法探索微生物群落与人体健康的关系。
+SMOOTH (Skin & Mucosal Microbes Omics-based Total Health) Laboratory is an interdisciplinary research facility affiliated with Southern Medical University. The laboratory is dedicated to integrating skin microbiome big data with artificial intelligence technologies, exploring the relationship between microbial communities and human health through multi-omics analysis approaches.
 
-我们整合了来自全球多个中心的大规模微生物组数据，包括超过2000份皮肤微生物组样本和4000余份呼吸道微生物组样本，构建了高质量的微生物组数据库，为深入理解微生物-宿主互作机制提供了重要的数据基础。
+We have integrated large-scale microbiome data from multiple global centers, including over 2,000 skin microbiome samples and more than 4,000 respiratory microbiome samples, establishing a high-quality microbiome database that provides an important data foundation for in-depth understanding of microbe-host interaction mechanisms.
 
-## 研究方向
+## Research Focus
 
-### 🧬 皮肤微生物组学
-- 皮肤微生物组的大规模数据整合与分析
-- 皮肤微生物群落结构与功能研究
-- 皮肤健康与疾病相关微生物标志物发现
+### 🧬 Skin Microbiome Studies
+- Large-scale data integration and analysis of skin microbiomes
+- Research on skin microbial community structure and function
+- Discovery of microbial biomarkers related to skin health and diseases
 
-### 🤖 人工智能与生物信息学
-- 基于机器学习的微生物组数据分析算法开发
-- 微生物组与宿主互作的计算模型构建
-- 高通量测序数据的智能化处理流程
+### 🤖 Artificial Intelligence & Bioinformatics
+- Development of machine learning-based microbiome data analysis algorithms
+- Construction of computational models for microbiome-host interactions
+- Intelligent processing pipelines for high-throughput sequencing data
 
-### 🔬 精准医学应用
-- 肿瘤内微生物组的高精度检测与分析
-- 跨队列微生物组研究的污染控制方法
-- 微生物组标志物在疾病诊断中的应用
+### 🔬 Precision Medicine Applications
+- High-precision detection and analysis of intra-tumoral microbiomes
+- Contamination control methods for cross-cohort microbiome studies
+- Application of microbiome biomarkers in disease diagnosis
 
-### 🌐 多组学整合研究
-- 16S rRNA扩增子测序数据分析
-- 宏基因组测序数据的深度解析
-- 多组学数据的系统整合与解释
+### 🌐 Multi-omics Integration Research
+- Analysis of 16S rRNA amplicon sequencing data
+- In-depth analysis of metagenomic sequencing data
+- Systematic integration and interpretation of multi-omics data
 
 ---
 
-**访问我们的项目：** [SMOOTH](https://github.com/SkinMicrobe/SMOOTH) | [ITM Pipeline](https://github.com/SkinMicrobe/ITM)
+**Explore Our Projects:** [SMOOTH](https://github.com/SkinMicrobe/SMOOTH) | [ITM Pipeline](https://github.com/SkinMicrobe/ITM)
