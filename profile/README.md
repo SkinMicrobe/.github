@@ -6,6 +6,8 @@ SMOOTH (Skin & Mucosal Microbes Omics-based Total Health) Laboratory is an inter
 
 We have integrated large-scale microbiome data from multiple global centers, including over 2,000 skin microbiome samples and more than 4,000 respiratory microbiome samples, establishing a high-quality microbiome database that provides an important data foundation for in-depth understanding of microbe-host interaction mechanisms.
 
+![SMOOTH Laboratory](smooth.png)
+
 ## Research Focus
 
 ### 🧬 Skin Microbiome Studies
