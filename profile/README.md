@@ -4,7 +4,7 @@
 
 SMOOTH (Skin & Mucosal Microbes Omics-based Total Health) Laboratory is an interdisciplinary research facility affiliated with Southern Medical University. The laboratory is dedicated to integrating skin microbiome big data with artificial intelligence technologies, exploring the relationship between microbial communities and human health through multi-omics analysis approaches.
 
-We have integrated large-scale microbiome data from multiple global centers, including over 2,000 skin microbiome samples and more than 4,000 respiratory microbiome samples, establishing a high-quality microbiome database that provides an important data foundation for in-depth understanding of microbe-host interaction mechanisms.
+We have integrated large-scale microbiome data from multiple global centers, including over 36,000 skin microbiome samples and more than 4,000 respiratory microbiome samples, establishing a high-quality microbiome database that provides an important data foundation for in-depth understanding of microbe-host interaction mechanisms.
 
 ![SMOOTH Laboratory](smooth.png)
 
